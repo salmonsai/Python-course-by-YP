@@ -1,2 +1,2 @@
-# yandex_practicum
-text assistant from YP course
+# Python course fom Yandex Practicum base
+Text assistant 
